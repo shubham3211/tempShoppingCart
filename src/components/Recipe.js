@@ -21,7 +21,7 @@ class Recipe extends Component {
         this.props.items.reduce((a, c) => a + c.price * c.quantity, 0) + 100,
       products: this.props.items,
       couponVerificationUrl: "https://shop.letsdooit.in/api/verify-coupons",
-      redirectUrl: "http://localhost:3000/",
+      redirectUrl: "https://priceless-swartz-a0cb7b.netlify.app/",
       merchantId: "5eb3fc9ee4cfc1314f26cc6e",
       shippingCharge: 100
     });
