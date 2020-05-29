@@ -20,7 +20,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 110,
-      img: Item1
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item1
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 80,
-      img: Item2
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item2
     },
     {
       id: 3,
@@ -36,7 +36,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 120,
-      img: Item3
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item3
     },
     {
       id: 4,
@@ -44,7 +44,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 260,
-      img: Item4
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item4
     },
     {
       id: 5,
@@ -52,7 +52,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 160,
-      img: Item5
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item5
     },
     {
       id: 6,
@@ -60,7 +60,7 @@ const initState = {
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
       price: 90,
-      img: Item6
+      img: 'https://priceless-swartz-a0cb7b.netlify.app'+Item6
     }
   ],
   addedItems: [],
